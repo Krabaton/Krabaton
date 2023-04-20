@@ -4,7 +4,7 @@ I have been working with web development since 2015, the period during which I h
 
 I am really keen on combining backend and frontend in one thread with one environment and one program language (Javascript). I am a fast learner, interested in new technologies and development techniques.
 
-I merge a passion for usability and user experience with technical knowledge to create cool digital experiences. My repertoire includes programming languages and tools such as TypeScript, React.js, Vue.js, Node.js, Python, Redux,  Nest.js, MySQL, PostgreSQL, MongoDb, Gulp, SASS, Docker and more.
+I merge a passion for usability and user experience with technical knowledge to create cool digital experiences. My repertoire includes programming languages and tools such as TypeScript, React.js, Node.js, Python, Redux,  Nest.js, FastAPI, Django, MySQL, PostgreSQL, MongoDb, SASS, Docker and more.
 
 I am a full stack developer., That this might be the best option for you since this means I have functional knowledge and extensive experience in diverse and basically all aspects of computer software development. I am able to take your concept and turn it into a finished product.
 
