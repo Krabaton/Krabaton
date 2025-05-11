@@ -7,7 +7,7 @@ I'm particularly focused on full-stack development using JavaScript across the e
 I combine UX design principles with technical expertise to build scalable digital solutions. My technology stack includes:
 
 **Frontend:** ⚡ TypeScript, ⚛️ React.js, 🔄 Redux, 🎨 SASS  
-**Backend:** 🟢 Node.js, 🐍 Python, 🦉 Nest.js, ⚡ FastAPI, 🗡️ Django  
+**Backend:** 🟢 Node.js, 🐍 Python, 🚀 Express.js, 🦉 Nest.js, ⚡ FastAPI, 🗡️ Django  
 **Databases:** 🐬 MySQL, 🐘 PostgreSQL, 🍃 MongoDB  
 **DevOps:** 🐳 Docker, ☁️ AWS, ☁️ Azure
 
