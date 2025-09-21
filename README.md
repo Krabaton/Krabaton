@@ -1,31 +1,28 @@
 ### Hi there 👋
 
-I have been working in web development since 2015, during which I've worked across various environments from outsourcing companies to startups. I'm a self-motivated professional who enjoys solving complex technical challenges.
+I'm a software engineer and academic program architect with extensive experience in web development since 2015.  
+My career spans outsourcing companies, startups, and academia, where I design AI and Computer Science programs and lecture on modern technology.
 
-I'm particularly focused on full-stack development using JavaScript across the entire technology stack, enabling seamless integration between frontend and backend. I stay current with emerging technologies and development methodologies.
+Driven by curiosity and a passion for solving complex technical challenges, I specialize in full-stack development using JavaScript and Python across all layers of the stack. I combine UX design principles with technical depth to deliver scalable digital solutions.
 
-I combine UX design principles with technical expertise to build scalable digital solutions. My technology stack includes:
+### Tech Stack 💡
 
 **Frontend:** ⚡ TypeScript, ⚛️ React.js, 🔄 Redux, 🎨 SASS  
 **Backend:** 🟢 Node.js, 🐍 Python, 🚀 Express.js, 🦉 Nest.js, ⚡ FastAPI, 🗡️ Django  
 **Databases:** 🐬 MySQL, 🐘 PostgreSQL, 🍃 MongoDB  
 **DevOps:** 🐳 Docker, ☁️ AWS, ☁️ Azure
 
-As a full-stack developer, I bring comprehensive knowledge across all software development domains, capable of taking concepts from ideation through to production deployment.
+### Expertise 🧩
+
+- Full-cycle product development: from ideation to production
+- Seamless frontend-backend integration
+- Modern JavaScript and Python frameworks
+- UX/UI-focused engineering
+- Designing and deploying scalable cloud solutions
+- Academic program architecture in AI and CS
 
 ![krabaton's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krabaton&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
-<!--
-**Krabaton/Krabaton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr/>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> _“Great solutions are born where technology meets creativity.”_
